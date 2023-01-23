@@ -1,7 +1,7 @@
 {
     "name": "Task Manager",
     "short_name": "Tasks",
-    "start_url": "index.html",
+    "start_url": "/task-manager-PWA/index.html",
     "display": "standalone",
     "background_color": "#fff",
     "theme_color": "#1f4690",
